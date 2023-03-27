@@ -79,3 +79,7 @@ button {
     width: 100px;
     height: 100px;
 }
+
+.form__container {
+    width: 550px;
+}
